@@ -36,6 +36,10 @@ window.Config = {
     {
       text: 'Blog',
       url: 'https://blog.microyu.top'
+    },
+    {
+      text: 'IP',
+      url: '101.132.238.237'
     }
   ]
 };
