@@ -31,11 +31,11 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://microyu.top/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: 'Blog',
+      url: 'https://blog.microyu.top'
     }
   ]
 };
