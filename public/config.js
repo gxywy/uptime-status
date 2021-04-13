@@ -5,7 +5,7 @@ window.Config = {
   SiteName: "Microyu's Monitor",
 
   // 站点链接
-  SiteUrl: 'https://status.microyu.top',
+  SiteUrl: 'https://billowing-sea-a97a.microyu.workers.dev/',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
