@@ -39,7 +39,7 @@ window.Config = {
     },
     {
       text: 'IP',
-      url: 'http://101.132.238.237'
+      url: 'http://139.196.38.106/'
     }
   ]
 };
